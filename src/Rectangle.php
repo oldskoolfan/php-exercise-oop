@@ -1,0 +1,8 @@
+<?php
+
+class Rectangle extends Shape 
+{
+	const SHAPE_TYPE = 2;
+
+	// we don't have to override anything here
+}
